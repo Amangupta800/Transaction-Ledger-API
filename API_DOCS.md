@@ -1,6 +1,8 @@
 # API Documentation
 
-Base URL: `http://localhost:3000`
+Base URL (Production): `https://transaction-ledger-api-9ras.onrender.com`
+
+Base URL (Local): `http://localhost:3000`
 
 All responses follow a consistent envelope:
 

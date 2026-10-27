@@ -2,6 +2,10 @@
 
 A RESTful banking API built with Node.js, Express, TypeScript, Prisma ORM, and PostgreSQL. Supports account management, transactions (credit/debit), and atomic fund transfers.
 
+**Live URL:** https://transaction-ledger-api-9ras.onrender.com
+
+**Repository:** https://github.com/Amangupta800/Transaction-Ledger-API
+
 ---
 
 ## Tech Stack
@@ -19,7 +23,7 @@ A RESTful banking API built with Node.js, Express, TypeScript, Prisma ORM, and P
 
 ## Prerequisites
 
-- Node.js 18 or higher
+- Node.js 18 or higher (tested on Node.js 24)
 - PostgreSQL 14 or higher (running locally or via Docker)
 - npm
 
@@ -30,8 +34,8 @@ A RESTful banking API built with Node.js, Express, TypeScript, Prisma ORM, and P
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
-cd banking-api
+git clone https://github.com/Amangupta800/Transaction-Ledger-API.git
+cd Transaction-Ledger-API
 ```
 
 ### 2. Install dependencies
